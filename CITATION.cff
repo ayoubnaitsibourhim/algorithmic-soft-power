@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Algorithmic Soft Power? Measuring Semantic Contamination of Culturally Situated Concepts Under Preference Alignment in Multilingual Latent Spaces"
+authors:
+  - family-names: "Nait Si Bourhim"
+    given-names: "Ayoub"
+    affiliation: "ENCG Fès, Sidi Mohammed Ben Abdellah University; Laremef Lab"
+  - family-names: "Boulaich"
+    given-names: "Mohammed Ali"
+version: "2.1"
+date-released: 2026-11-12
+repository-code: "https://github.com/ayoubnaitsibourhim/algorithmic-soft-power"
+license: MIT
+keywords: [large language models, preference alignment, semantic contamination, multilingual embeddings, digital sovereignty]
